@@ -26,3 +26,9 @@ sar 1 10 -r -u
 
 == Process statistics ==
 pidstat -C BK_SLM -rud -h 10
+
+== lsof ==
+lsof -p 821                                           - List all open files of pid 802
+
+== strace ==
+sudo strace -fp 812 -s120 -o /tmp/strace.txt         - get trace of all system calls of process

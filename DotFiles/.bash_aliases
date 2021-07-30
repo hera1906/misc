@@ -17,6 +17,8 @@ alias cdne='cd ~/src/NExT'
 alias cdbr='cd ~/src/NExT/opc-ua-jet-bridge'
 alias cdwr='cd ~/src/NExT/opc-ua-jet-bridge/open62541-wrapper'
 alias cdfu='cd ~/src/NExT/functionblocks'
+alias cdjp='cd ~/src/NExT/jetproxy'
+alias cdss='cd ~/src/NExT/system-services'
 #alias cdex='cd ~/src/NExT/opc-ua-set-up-interfac/opc-ua-server/src'
 alias ..='cd ..'
 alias ...='cd ../..'
@@ -48,7 +50,7 @@ alias gitv="git difftool"
 alias gitg="git difftool -g"
 
 alias uae="nohup UaExpert-1.5.1-331-x86_64.AppImage &"
-alias uam="UaModeler-bin-linux-x86_64-1.6.5-472.AppImage &"
+alias uam="nohup UaModeler-bin-linux-x86_64-1.6.5-472.AppImage &"
 
 #alias vi=vimx
 #alias netbeans='/usr/local/netbeans-8.2/bin/netbeans'

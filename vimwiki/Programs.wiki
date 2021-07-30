@@ -9,6 +9,8 @@
   * [[gdb]]         - GNU Debugger
   * [[qutebrowser]] - Qutebrowser
   *
+  * meld        - Visual diff and merge tool
+  *
   * nginx       - NGinx webserver
   *
   * nemiver     - Gdb frontend
